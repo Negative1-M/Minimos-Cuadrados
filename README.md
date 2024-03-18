@@ -1,5 +1,5 @@
 # Minimos-Cuadrados
-Técnica de mínimos cuadrados para la identificación de sistemas paramétricos deterministas
+Técnica de mínimos cuadrados para la identificación de sistemas paramétricos deterministas.\n
 Para utilizar este código cambiando los valores necesarios, puedes seguir estos pasos:
 1. Modificar los datos de entrada-salida: Puedes cambiar los valores en los arrays n y y para representar tus propios datos de entrada y salida.
 2. Modificar los vectores de entrada x y x1: Si tu sistema tiene variables de entrada adicionales, puedes modificar los vectores x y x1 según sea necesario.
