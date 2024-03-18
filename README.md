@@ -9,7 +9,7 @@ Para utilizar este código cambiando los valores necesarios, puedes seguir estos
 Este código proporciona una base para implementar la técnica de mínimos cuadrados para la identificación paramétrica de sistemas, pero es importante entender la teoría detrás de este método y cómo se relaciona con tu problema específico para utilizarlo de manera efectiva.
 
 ### Grafica del modelo con los parametros de entrada y salida iniciales
-![forma de ecuación de diferencias característica](/assets/images/1.png)
+![forma de ecuación de diferencias característica](/assets/1.png)
 
 ### Graficacion de la ecuacion de recurrencia obtenida anteriormente
 Para utilizar este código cambiando los valores necesarios, puedes seguir estos pasos:
@@ -17,4 +17,4 @@ Para utilizar este código cambiando los valores necesarios, puedes seguir estos
 2. **Modificar los datos de entrada-salida:** Puedes cambiar la función de generación de datos de entrada ***u*** para representar tus propios datos de entrada. También puedes inicializar el ***array y*** con valores diferentes si es necesario.
 3. **Interpretar y ajustar los resultados:** Después de ejecutar el código con tus propios datos o modificaciones, asegúrate de interpretar los resultados correctamente y realizar los ajustes necesarios en tu modelo según sea necesario.
 
-![Modelo discreto lineal de la ecuacion de recurrencia](/assets/images/2.png)
+![Modelo discreto lineal de la ecuacion de recurrencia](/assets/2.png)
