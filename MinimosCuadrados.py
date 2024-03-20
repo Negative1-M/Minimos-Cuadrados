@@ -12,11 +12,11 @@ plt.plot(n,y,'*')
 plt.show()
 
 # Construir matriz phi
-phi = np.column_stack((y[:-2], y[1:-1], x1[1:-1], x1[:-2]))
+phi = np.column_stack((y[1:-1], y[:-2], x1[1:-1], x1[:-2]))
 print("valor de phi: \n", phi, "\n")
 
 # Construir vector columna Y
-Y = y[2:]
+Y = y[1:-1]
 print("valor de Y: \n", Y, "\n")
 
 # Calcular la matriz de covarianza
